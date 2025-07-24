@@ -8,7 +8,7 @@ function buildMenuPage() {
 
     // image
     const img = document.createElement("img");
-    img.setAttribute("src", "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=700&q=80");
+    img.setAttribute("src", "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=700&q=80");
     img.setAttribute("alt", "Molecular Dish");
     img.setAttribute("style", "max-width:90%;height:auto;");
     container.appendChild(img);
